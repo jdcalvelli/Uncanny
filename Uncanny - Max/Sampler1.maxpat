@@ -1868,8 +1868,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "int", "bang" ],
-									"patching_rect" : [ 452.0, 256.0, 36.0, 22.0 ],
-									"text" : "urn 5"
+									"patching_rect" : [ 452.0, 256.0, 43.0, 22.0 ],
+									"text" : "urn 10"
 								}
 
 							}
@@ -1893,7 +1893,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "int", "bang" ],
 									"patching_rect" : [ 100.0, 260.0, 43.0, 22.0 ],
-									"text" : "urn 15"
+									"text" : "urn 25"
 								}
 
 							}
@@ -2837,7 +2837,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 41.0, 84.0, 1468.0, 753.0 ],
+						"rect" : [ 27.0, 84.0, 1468.0, 753.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -2979,8 +2979,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "int", "bang" ],
-									"patching_rect" : [ 452.0, 256.0, 36.0, 22.0 ],
-									"text" : "urn 5"
+									"patching_rect" : [ 452.0, 256.0, 43.0, 22.0 ],
+									"text" : "urn 10"
 								}
 
 							}
@@ -3004,7 +3004,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "int", "bang" ],
 									"patching_rect" : [ 100.0, 260.0, 43.0, 22.0 ],
-									"text" : "urn 15"
+									"text" : "urn 25"
 								}
 
 							}
@@ -3948,7 +3948,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 41.0, 84.0, 1468.0, 753.0 ],
+						"rect" : [ 27.0, 84.0, 1468.0, 753.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -3975,6 +3975,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-35",
@@ -4090,8 +4091,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "int", "bang" ],
-									"patching_rect" : [ 452.0, 256.0, 36.0, 22.0 ],
-									"text" : "urn 5"
+									"patching_rect" : [ 452.0, 256.0, 43.0, 22.0 ],
+									"text" : "urn 15"
 								}
 
 							}
@@ -4115,7 +4116,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "int", "bang" ],
 									"patching_rect" : [ 100.0, 260.0, 43.0, 22.0 ],
-									"text" : "urn 15"
+									"text" : "urn 50"
 								}
 
 							}
@@ -11892,7 +11893,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-9",

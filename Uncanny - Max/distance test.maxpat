@@ -244,7 +244,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 962.0, 645.0, 58.0, 22.0 ],
+					"patching_rect" : [ 1111.0, 734.932127999999921, 58.0, 22.0 ],
 					"text" : "open test"
 				}
 
@@ -257,7 +257,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 905.24401899999998, 645.0, 24.0, 24.0 ]
+					"patching_rect" : [ 1054.24401899999998, 734.932127999999921, 24.0, 24.0 ]
 				}
 
 			}
