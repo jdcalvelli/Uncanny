@@ -39,6 +39,13 @@ public class PlayerMovement : MonoBehaviour {
 	/// Used to let the player jump.
 	private float jumpAmount;
 
+	///adding in osc support for if walking trigger
+	public float forwardSpeed;
+	private float forwardSpeedOld = -1.0f;
+	OscMessage message;
+	public OSC osc;
+	public string address = "/speed";
+	
 	/// We use this to hide the mouse cursor.
 	void Start () {
 		Cursor.visible = false;
@@ -48,7 +55,19 @@ public class PlayerMovement : MonoBehaviour {
 	void Update () {
 		//Get our current WASD speed.
 		Vector3 strafe = new Vector3(Input.GetAxis("Horizontal") * 10.0f, 0.0f, 0.0f);
-		float forwardSpeed = Input.GetAxis("Vertical") * 5.0f; //edited from 10 to 5 for lower speed with joystick
+		forwardSpeed = Input.GetAxis("Vertical") * 5.0f; //edited from 10 to 5 for lower speed with joystick
+		
+		///if condition for if walking osc message transfer
+		if (forwardSpeed != forwardSpeedOld)
+		{
+			message = new OscMessage();
+			message.address = address;
+			Debug.Log(address);
+			message.values.Add(forwardSpeed);
+			osc.Send(message);
+			forwardSpeedOld = forwardSpeed;
+		}
+
 
 		//Get our current mouse/camera rotation.
 		playerRotation = Input.GetAxis("Mouse X") * 6.0f;
