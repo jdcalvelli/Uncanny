@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 1468.0, 753.0 ],
+		"rect" : [ 35.0, 84.0, 576.0, 745.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -56,8 +56,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 225.533219499999916, 676.0, 30.0, 22.0 ],
-					"text" : "118"
+					"patching_rect" : [ 225.533219499999916, 676.0, 29.5, 22.0 ],
+					"text" : "100"
 				}
 
 			}
@@ -81,7 +81,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1780.0, 527.0, 29.5, 22.0 ],
-					"text" : "132"
+					"text" : "122"
 				}
 
 			}
@@ -318,23 +318,23 @@
 								"absolutepath" : "Walking on Wooden Bridge.wav",
 								"filename" : "Walking on Wooden Bridge.wav",
 								"filekind" : "audiofile",
-								"selection" : [ 0.0, 1.0 ],
+								"selection" : [ 0.149214659685864, 0.869109947643979 ],
 								"loop" : 1,
 								"content_state" : 								{
-									"formant" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"followglobaltempo" : [ 0 ],
-									"speed" : [ 1.0 ],
-									"slurtime" : [ 0.0 ],
-									"timestretch" : [ 0 ],
-									"formantcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ],
-									"originallengthms" : [ 0.0 ],
-									"mode" : [ "basic" ],
 									"originaltempo" : [ 120.0 ],
+									"slurtime" : [ 0.0 ],
+									"basictuning" : [ 440 ],
+									"speed" : [ 1.0 ],
+									"pitchcorrection" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"followglobaltempo" : [ 0 ],
+									"timestretch" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
+									"formantcorrection" : [ 0 ],
 									"quality" : [ "basic" ],
-									"basictuning" : [ 440 ]
+									"mode" : [ "basic" ],
+									"formant" : [ 1.0 ],
+									"originallength" : [ 0.0, "ticks" ]
 								}
 
 							}
@@ -345,20 +345,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
-									"formant" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"followglobaltempo" : [ 0 ],
-									"speed" : [ 1.0 ],
-									"slurtime" : [ 0.0 ],
-									"timestretch" : [ 0 ],
-									"formantcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ],
-									"originallengthms" : [ 0.0 ],
-									"mode" : [ "basic" ],
 									"originaltempo" : [ 120.0 ],
+									"slurtime" : [ 0.0 ],
+									"basictuning" : [ 440 ],
+									"speed" : [ 1.0 ],
+									"pitchcorrection" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"followglobaltempo" : [ 0 ],
+									"timestretch" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
+									"formantcorrection" : [ 0 ],
 									"quality" : [ "basic" ],
-									"basictuning" : [ 440 ]
+									"mode" : [ "basic" ],
+									"formant" : [ 1.0 ],
+									"originallength" : [ 0.0, "ticks" ]
 								}
 
 							}
@@ -369,20 +369,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
-									"formant" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"followglobaltempo" : [ 0 ],
-									"speed" : [ 1.0 ],
-									"slurtime" : [ 0.0 ],
-									"timestretch" : [ 0 ],
-									"formantcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ],
-									"originallengthms" : [ 0.0 ],
-									"mode" : [ "basic" ],
 									"originaltempo" : [ 120.0 ],
+									"slurtime" : [ 0.0 ],
+									"basictuning" : [ 440 ],
+									"speed" : [ 1.0 ],
+									"pitchcorrection" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"followglobaltempo" : [ 0 ],
+									"timestretch" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
+									"formantcorrection" : [ 0 ],
 									"quality" : [ "basic" ],
-									"basictuning" : [ 440 ]
+									"mode" : [ "basic" ],
+									"formant" : [ 1.0 ],
+									"originallength" : [ 0.0, "ticks" ]
 								}
 
 							}
@@ -393,20 +393,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
-									"formant" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"followglobaltempo" : [ 0 ],
-									"speed" : [ 1.0 ],
-									"slurtime" : [ 0.0 ],
-									"timestretch" : [ 0 ],
-									"formantcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ],
-									"originallengthms" : [ 0.0 ],
-									"mode" : [ "basic" ],
 									"originaltempo" : [ 120.0 ],
+									"slurtime" : [ 0.0 ],
+									"basictuning" : [ 440 ],
+									"speed" : [ 1.0 ],
+									"pitchcorrection" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"followglobaltempo" : [ 0 ],
+									"timestretch" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
+									"formantcorrection" : [ 0 ],
 									"quality" : [ "basic" ],
-									"basictuning" : [ 440 ]
+									"mode" : [ "basic" ],
+									"formant" : [ 1.0 ],
+									"originallength" : [ 0.0, "ticks" ]
 								}
 
 							}
@@ -417,20 +417,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
-									"formant" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"followglobaltempo" : [ 0 ],
-									"speed" : [ 1.0 ],
-									"slurtime" : [ 0.0 ],
-									"timestretch" : [ 0 ],
-									"formantcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ],
-									"originallengthms" : [ 0.0 ],
-									"mode" : [ "basic" ],
 									"originaltempo" : [ 120.0 ],
+									"slurtime" : [ 0.0 ],
+									"basictuning" : [ 440 ],
+									"speed" : [ 1.0 ],
+									"pitchcorrection" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"followglobaltempo" : [ 0 ],
+									"timestretch" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
+									"formantcorrection" : [ 0 ],
 									"quality" : [ "basic" ],
-									"basictuning" : [ 440 ]
+									"mode" : [ "basic" ],
+									"formant" : [ 1.0 ],
+									"originallength" : [ 0.0, "ticks" ]
 								}
 
 							}
@@ -550,7 +550,7 @@
 					"id" : "obj-64",
 					"lockeddragscroll" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "Sampler1.maxpat",
+					"name" : "SamplerAbstraction.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 16,
 					"offset" : [ 0.0, 0.0 ],
@@ -10644,27 +10644,23 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-61::obj-1" : [ "Time[1]", "Time", 0 ],
-			"obj-211::obj-28" : [ "Mix", "Mix", 0 ],
+			"obj-211::obj-47" : [ "bypass", "bypass", 0 ],
 			"obj-61::obj-26" : [ "Reflections[1]", "Reflections", 0 ],
 			"obj-64::obj-29" : [ "live.gain~[3]", "live.gain~", 0 ],
-			"obj-211::obj-47" : [ "bypass", "bypass", 0 ],
-			"obj-61::obj-25" : [ "Cutoff[1]", "Cutoff", 0 ],
 			"obj-211::obj-26" : [ "Reflections", "Reflections", 0 ],
-			"obj-61::obj-47" : [ "bypass[1]", "bypass", 0 ],
-			"obj-211::obj-25" : [ "Cutoff", "Cutoff", 0 ],
 			"obj-61::obj-28" : [ "Mix[1]", "Mix", 0 ],
+			"obj-211::obj-25" : [ "Cutoff", "Cutoff", 0 ],
+			"obj-61::obj-47" : [ "bypass[1]", "bypass", 0 ],
 			"obj-64::obj-46" : [ "live.gain~[2]", "live.gain~", 0 ],
 			"obj-211::obj-1" : [ "Time", "Time", 0 ],
+			"obj-61::obj-1" : [ "Time[1]", "Time", 0 ],
+			"obj-211::obj-28" : [ "Mix", "Mix", 0 ],
+			"obj-61::obj-25" : [ "Cutoff[1]", "Cutoff", 0 ],
 			"parameterbanks" : 			{
 
 			}
 ,
 			"parameter_overrides" : 			{
-				"obj-61::obj-1" : 				{
-					"parameter_longname" : "Time[1]"
-				}
-,
 				"obj-61::obj-26" : 				{
 					"parameter_longname" : "Reflections[1]"
 				}
@@ -10673,20 +10669,24 @@
 					"parameter_longname" : "live.gain~[3]"
 				}
 ,
-				"obj-61::obj-25" : 				{
-					"parameter_longname" : "Cutoff[1]"
+				"obj-61::obj-28" : 				{
+					"parameter_longname" : "Mix[1]"
 				}
 ,
 				"obj-61::obj-47" : 				{
 					"parameter_longname" : "bypass[1]"
 				}
 ,
-				"obj-61::obj-28" : 				{
-					"parameter_longname" : "Mix[1]"
-				}
-,
 				"obj-64::obj-46" : 				{
 					"parameter_longname" : "live.gain~[2]"
+				}
+,
+				"obj-61::obj-1" : 				{
+					"parameter_longname" : "Time[1]"
+				}
+,
+				"obj-61::obj-25" : 				{
+					"parameter_longname" : "Cutoff[1]"
 				}
 
 			}
@@ -10706,7 +10706,7 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Sampler1.maxpat",
+				"name" : "SamplerAbstraction.maxpat",
 				"bootpath" : "D:/_work/_JUNIOR/JUNIOR S2 - Abroad2020/CASnew/Uncanny/Uncanny - Max",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
