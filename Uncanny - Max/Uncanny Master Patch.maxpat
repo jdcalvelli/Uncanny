@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 35.0, 84.0, 576.0, 745.0 ],
+		"rect" : [ 34.0, 77.0, 1468.0, 753.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -321,20 +321,20 @@
 								"selection" : [ 0.149214659685864, 0.869109947643979 ],
 								"loop" : 1,
 								"content_state" : 								{
-									"originaltempo" : [ 120.0 ],
-									"slurtime" : [ 0.0 ],
-									"basictuning" : [ 440 ],
 									"speed" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"followglobaltempo" : [ 0 ],
-									"timestretch" : [ 0 ],
-									"originallengthms" : [ 0.0 ],
-									"formantcorrection" : [ 0 ],
+									"originaltempo" : [ 120.0 ],
+									"basictuning" : [ 440 ],
 									"quality" : [ "basic" ],
+									"slurtime" : [ 0.0 ],
+									"pitchcorrection" : [ 0 ],
+									"followglobaltempo" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"timestretch" : [ 0 ],
+									"formantcorrection" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
 									"mode" : [ "basic" ],
-									"formant" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ]
+									"originallength" : [ 0.0, "ticks" ],
+									"formant" : [ 1.0 ]
 								}
 
 							}
@@ -345,20 +345,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
-									"originaltempo" : [ 120.0 ],
-									"slurtime" : [ 0.0 ],
-									"basictuning" : [ 440 ],
 									"speed" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"followglobaltempo" : [ 0 ],
-									"timestretch" : [ 0 ],
-									"originallengthms" : [ 0.0 ],
-									"formantcorrection" : [ 0 ],
+									"originaltempo" : [ 120.0 ],
+									"basictuning" : [ 440 ],
 									"quality" : [ "basic" ],
+									"slurtime" : [ 0.0 ],
+									"pitchcorrection" : [ 0 ],
+									"followglobaltempo" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"timestretch" : [ 0 ],
+									"formantcorrection" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
 									"mode" : [ "basic" ],
-									"formant" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ]
+									"originallength" : [ 0.0, "ticks" ],
+									"formant" : [ 1.0 ]
 								}
 
 							}
@@ -369,20 +369,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
-									"originaltempo" : [ 120.0 ],
-									"slurtime" : [ 0.0 ],
-									"basictuning" : [ 440 ],
 									"speed" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"followglobaltempo" : [ 0 ],
-									"timestretch" : [ 0 ],
-									"originallengthms" : [ 0.0 ],
-									"formantcorrection" : [ 0 ],
+									"originaltempo" : [ 120.0 ],
+									"basictuning" : [ 440 ],
 									"quality" : [ "basic" ],
+									"slurtime" : [ 0.0 ],
+									"pitchcorrection" : [ 0 ],
+									"followglobaltempo" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"timestretch" : [ 0 ],
+									"formantcorrection" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
 									"mode" : [ "basic" ],
-									"formant" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ]
+									"originallength" : [ 0.0, "ticks" ],
+									"formant" : [ 1.0 ]
 								}
 
 							}
@@ -393,20 +393,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 0,
 								"content_state" : 								{
-									"originaltempo" : [ 120.0 ],
-									"slurtime" : [ 0.0 ],
-									"basictuning" : [ 440 ],
 									"speed" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"followglobaltempo" : [ 0 ],
-									"timestretch" : [ 0 ],
-									"originallengthms" : [ 0.0 ],
-									"formantcorrection" : [ 0 ],
+									"originaltempo" : [ 120.0 ],
+									"basictuning" : [ 440 ],
 									"quality" : [ "basic" ],
+									"slurtime" : [ 0.0 ],
+									"pitchcorrection" : [ 0 ],
+									"followglobaltempo" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"timestretch" : [ 0 ],
+									"formantcorrection" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
 									"mode" : [ "basic" ],
-									"formant" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ]
+									"originallength" : [ 0.0, "ticks" ],
+									"formant" : [ 1.0 ]
 								}
 
 							}
@@ -417,20 +417,20 @@
 								"selection" : [ 0.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
-									"originaltempo" : [ 120.0 ],
-									"slurtime" : [ 0.0 ],
-									"basictuning" : [ 440 ],
 									"speed" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"pitchshift" : [ 1.0 ],
-									"followglobaltempo" : [ 0 ],
-									"timestretch" : [ 0 ],
-									"originallengthms" : [ 0.0 ],
-									"formantcorrection" : [ 0 ],
+									"originaltempo" : [ 120.0 ],
+									"basictuning" : [ 440 ],
 									"quality" : [ "basic" ],
+									"slurtime" : [ 0.0 ],
+									"pitchcorrection" : [ 0 ],
+									"followglobaltempo" : [ 0 ],
+									"pitchshift" : [ 1.0 ],
+									"timestretch" : [ 0 ],
+									"formantcorrection" : [ 0 ],
+									"originallengthms" : [ 0.0 ],
 									"mode" : [ "basic" ],
-									"formant" : [ 1.0 ],
-									"originallength" : [ 0.0, "ticks" ]
+									"originallength" : [ 0.0, "ticks" ],
+									"formant" : [ 1.0 ]
 								}
 
 							}
@@ -10234,13 +10234,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-8", 6 ],
-					"source" : [ "obj-64", 6 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-8", 5 ],
 					"source" : [ "obj-64", 5 ]
 				}
@@ -10644,35 +10637,23 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-211::obj-47" : [ "bypass", "bypass", 0 ],
-			"obj-61::obj-26" : [ "Reflections[1]", "Reflections", 0 ],
-			"obj-64::obj-29" : [ "live.gain~[3]", "live.gain~", 0 ],
-			"obj-211::obj-26" : [ "Reflections", "Reflections", 0 ],
-			"obj-61::obj-28" : [ "Mix[1]", "Mix", 0 ],
-			"obj-211::obj-25" : [ "Cutoff", "Cutoff", 0 ],
 			"obj-61::obj-47" : [ "bypass[1]", "bypass", 0 ],
+			"obj-211::obj-47" : [ "bypass", "bypass", 0 ],
 			"obj-64::obj-46" : [ "live.gain~[2]", "live.gain~", 0 ],
-			"obj-211::obj-1" : [ "Time", "Time", 0 ],
-			"obj-61::obj-1" : [ "Time[1]", "Time", 0 ],
-			"obj-211::obj-28" : [ "Mix", "Mix", 0 ],
 			"obj-61::obj-25" : [ "Cutoff[1]", "Cutoff", 0 ],
+			"obj-211::obj-26" : [ "Reflections", "Reflections", 0 ],
+			"obj-61::obj-1" : [ "Time[1]", "Time", 0 ],
+			"obj-211::obj-25" : [ "Cutoff", "Cutoff", 0 ],
+			"obj-61::obj-28" : [ "Mix[1]", "Mix", 0 ],
+			"obj-64::obj-29" : [ "live.gain~[3]", "live.gain~", 0 ],
+			"obj-211::obj-1" : [ "Time", "Time", 0 ],
+			"obj-61::obj-26" : [ "Reflections[1]", "Reflections", 0 ],
+			"obj-211::obj-28" : [ "Mix", "Mix", 0 ],
 			"parameterbanks" : 			{
 
 			}
 ,
 			"parameter_overrides" : 			{
-				"obj-61::obj-26" : 				{
-					"parameter_longname" : "Reflections[1]"
-				}
-,
-				"obj-64::obj-29" : 				{
-					"parameter_longname" : "live.gain~[3]"
-				}
-,
-				"obj-61::obj-28" : 				{
-					"parameter_longname" : "Mix[1]"
-				}
-,
 				"obj-61::obj-47" : 				{
 					"parameter_longname" : "bypass[1]"
 				}
@@ -10681,12 +10662,24 @@
 					"parameter_longname" : "live.gain~[2]"
 				}
 ,
+				"obj-61::obj-25" : 				{
+					"parameter_longname" : "Cutoff[1]"
+				}
+,
 				"obj-61::obj-1" : 				{
 					"parameter_longname" : "Time[1]"
 				}
 ,
-				"obj-61::obj-25" : 				{
-					"parameter_longname" : "Cutoff[1]"
+				"obj-61::obj-28" : 				{
+					"parameter_longname" : "Mix[1]"
+				}
+,
+				"obj-64::obj-29" : 				{
+					"parameter_longname" : "live.gain~[3]"
+				}
+,
+				"obj-61::obj-26" : 				{
+					"parameter_longname" : "Reflections[1]"
 				}
 
 			}
