@@ -1,17 +1,17 @@
 ﻿// PlayerMovement.cs - Simple first person movement script.
 // -----------------------------------------------------------------------------
 // Copyright (c) 2018 Niall Moody
-// 
+//
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
 // in the Software without restriction, including without limitation the rights
 // to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 // copies of the Software, and to permit persons to whom the Software is
 // furnished to do so, subject to the following conditions:
-// 
+//
 // The above copyright notice and this permission notice shall be included in
 // all copies or substantial portions of the Software.
-// 
+//
 // THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 // IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 // FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour {
 	void Start () {
 		Cursor.visible = false;
 	}
-	
+
 	/// This is where we move the Player object and Camera.
 	void Update () {
 		//Get our current WASD speed.
@@ -51,8 +51,8 @@ public class PlayerMovement : MonoBehaviour {
 		float forwardSpeed = Input.GetAxis("Vertical") * 2.0f;
 
 		//Get our current mouse/camera rotation.
-		playerRotation = Input.GetAxis("Mouse X") * 6.0f;
-		viewY = Input.GetAxis("Mouse Y") * 4.0f;
+		playerRotation = Input.GetAxis("Mouse X") * 2.5f; //modified to make slower
+		viewY = Input.GetAxis("Mouse Y") * 1.5f; //modified to make slower
 
 		//Don't let the player rotate the camera more than 90 degrees on the
 		//y-axis.
@@ -98,7 +98,7 @@ public class PlayerMovement : MonoBehaviour {
 
 		//Apply gravity to the player's y-axis.
 		moveDirection.y -= 6.0f;
-		
+
 		//Finally, apply the updated direction to the player's Controller (this
 		//will figure out any collisions with the ground, other objects, etc.).
 		controller.Move(moveDirection * Time.deltaTime);
